@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" style="width: 100%;" />
+<img src="poster.png" alt="Banner" style="width: 100%;" />
 
 # 🏄‍♂️ Elijah Adewunmi
 
