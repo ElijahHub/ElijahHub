@@ -4,9 +4,9 @@
 
 I'm a full-stack developer dedicated to constructing a secure digital landscape from the ground up. Every project is built with a security-first mindset—from strategic planning and secure design to robust implementation and ongoing maintenance. My commitment to best practices in cybersecurity ensures that every solution not only meets real-world needs but also keeps data and user privacy safeguarded against evolving threats.
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahhub&label=Profile%20views&color=0e75b6&style=flat" alt="elijahhub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahhub" alt="elijahhub" /></a> </p>
 
 - 🌱 I’m currently learning **React Native,**
 
@@ -25,3 +25,4 @@ I'm a full-stack developer dedicated to constructing a secure digital landscape 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elijahhub&show_icons=true&locale=en&layout=compact" alt="elijahhub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elijahhub&show_icons=true&locale=en" alt="elijahhub" /></p>
+
