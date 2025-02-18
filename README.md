@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm a full-stack developer dedicated to constructing a secure digital landscape from the ground up. Every project is built with a security-first mindset—from strategic planning and secure design to robust implementation and ongoing maintenance. My commitment to best practices in cybersecurity ensures that every solution not only meets real-world needs but also keeps data and user privacy safeguarded against evolving threats.
+I'm a full-stack engineer dedicated to constructing a secure digital landscape from the ground up. Every project is built with a security-first mindset—from strategic planning and secure design to robust implementation and ongoing maintenance. My commitment to best practices in cybersecurity ensures that every solution not only meets real-world needs but also keeps data and user privacy safeguarded against evolving threats.
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
